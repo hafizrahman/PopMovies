@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+
+    <string name="menu_popular">Popular</string>
+    <string name="menu_top_rated">Top Rated</string>
+    <string name="menu_favorites">Favorites</string>
+
+
+    <string name="activity_title_popular">PopMovies: Popular</string>
+    <string name="activity_title_top_rated">PopMovies: Top Rated</string>
+    <string name="activity_title_favorites">PopMovies: Favorites</string>
+    <string name="activity_title_reviews">Reviews for\u0020</string>
+
+    <string name="filled_star">\u2605</string>
+    <string name="empty_star">\u2606</string>
+    <string name="icon_trailers">\u25b6</string>
+
+    <string name="ui_released">Released\u0020</string>
+    <string name="ui_watch_trailers">Watch Trailers</string>
+    <string name="ui_viewing">Now Viewing</string>
+    <string name="ui_btn_reviews">Reviews</string>
+    <string name="ui_iv_poster_description">Movie Poster</string>
+    <string name="ui_tv_reviewer_name">Movie Poster</string>
+
+
+</resources>
